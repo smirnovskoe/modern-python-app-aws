@@ -1,4 +1,4 @@
-<h3 align="center">This is a centered header</h3>
+<h3 align="center">Python/AWS</h3>
 
 ## General info
 Building Modern Python Applications on AWS.
